@@ -4,8 +4,9 @@
   "description": "android style toast component for react.js",
   "main": "dist/toast.js",
   "scripts": {
+    "clean": "rm -rf dist",
     "compile": "babel src --out-dir dist",
-    "prepublish": "npm run compile"
+    "prepublish": "npm run clean && npm run compile"
   },
   "repository": {
     "type": "git",
