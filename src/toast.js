@@ -57,4 +57,4 @@ function show(text, timeout = defaultTimeout, style = defaultStyle) {
   }
 }
 
-export const Toast = { show };
+export const toast = { show };
