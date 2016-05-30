@@ -1,11 +1,11 @@
 {
   "name": "react-android-style-toast",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "android style toast component for react.js",
-  "main": "dist/toast.js",
+  "main": "lib/toast.js",
   "scripts": {
-    "clean": "rm -rf dist",
-    "compile": "babel src --out-dir dist",
+    "clean": "rm -rf lib",
+    "compile": "babel src --out-dir lib",
     "prepublish": "npm run clean && npm run compile"
   },
   "repository": {
