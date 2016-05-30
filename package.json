@@ -1,6 +1,6 @@
 {
   "name": "react-android-style-toast",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "android style toast component for react.js",
   "main": "lib/toast.js",
   "scripts": {
