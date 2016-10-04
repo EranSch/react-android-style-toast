@@ -11,7 +11,7 @@ npm install react-android-style-toast --save
 ## Usage
 
 ```js
-import { toast } from 'react-notify-toast';
+import { toast } from 'react-android-style-toast';
 
 toast.show('toast message');
 ```
